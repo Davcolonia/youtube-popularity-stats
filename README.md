@@ -11,10 +11,21 @@ Media in the last 10 years has underwent considerable changes. Tv is no longer t
   
   
 *Is an ‘trending’ overrated term? Ie does subscriber count mean more than overall viewership.
+
+
 *How do smaller accounts compete for an audience against large media entities.
+
+
 *Can viewer patterns be established (ie does movie subcategory out perform the comedy subcategory)
+
+
 *Do channels with specific audiences outperform those with broader reach.
+
+
 *For advertising purposes, what are the better pages to target. 
+
+
+
 
 H0: Trending is the best measure viewer preference  
 HA: Trending is not the best measure of viewer preference
